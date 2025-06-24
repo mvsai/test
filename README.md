@@ -1,2 +1,2 @@
 # test
-testing somthing
+getting achivements in github 
